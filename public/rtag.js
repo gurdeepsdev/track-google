@@ -6,7 +6,7 @@
     const CLICK_COOKIE = "rt_click_id";
   
     const config = window.rtag_config || {};
-    const SECRET_KEY = "k3y123"; // keep short (frontend only for obfuscation)
+    const SECRET_KEY = "k3y123"; 
   
     // 🔹 Cookie helpers
     function getCookie(name) {
